@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mannequin{
+  background-image: url('./img/mannequin_done3.png');
+  background-position: center;
+  background-position-y: 20%;
+}
