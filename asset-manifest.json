@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-slider-test/static/css/main.6cae4f5b.chunk.css",
+    "main.js": "/react-slider-test/static/js/main.70faf55e.chunk.js",
+    "main.js.map": "/react-slider-test/static/js/main.70faf55e.chunk.js.map",
+    "runtime-main.js": "/react-slider-test/static/js/runtime-main.9db77ed9.js",
+    "runtime-main.js.map": "/react-slider-test/static/js/runtime-main.9db77ed9.js.map",
+    "static/css/2.b2dc3093.chunk.css": "/react-slider-test/static/css/2.b2dc3093.chunk.css",
+    "static/js/2.777724f2.chunk.js": "/react-slider-test/static/js/2.777724f2.chunk.js",
+    "static/js/2.777724f2.chunk.js.map": "/react-slider-test/static/js/2.777724f2.chunk.js.map",
+    "static/js/3.50ecf458.chunk.js": "/react-slider-test/static/js/3.50ecf458.chunk.js",
+    "static/js/3.50ecf458.chunk.js.map": "/react-slider-test/static/js/3.50ecf458.chunk.js.map",
+    "index.html": "/react-slider-test/index.html",
+    "static/css/2.b2dc3093.chunk.css.map": "/react-slider-test/static/css/2.b2dc3093.chunk.css.map",
+    "static/css/main.6cae4f5b.chunk.css.map": "/react-slider-test/static/css/main.6cae4f5b.chunk.css.map",
+    "static/js/2.777724f2.chunk.js.LICENSE.txt": "/react-slider-test/static/js/2.777724f2.chunk.js.LICENSE.txt",
+    "static/media/la-foresta_10069578.54899e77.png": "/react-slider-test/static/media/la-foresta_10069578.54899e77.png",
+    "static/media/la-foresta_10089496.59c02a8a.png": "/react-slider-test/static/media/la-foresta_10089496.59c02a8a.png",
+    "static/media/la-foresta_10091467.9dfab013.png": "/react-slider-test/static/media/la-foresta_10091467.9dfab013.png",
+    "static/media/index.css": "/react-slider-test/static/media/mannequin_done3.1efadd8e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db77ed9.js",
+    "static/css/2.b2dc3093.chunk.css",
+    "static/js/2.777724f2.chunk.js",
+    "static/css/main.6cae4f5b.chunk.css",
+    "static/js/main.70faf55e.chunk.js"
+  ]
+}
